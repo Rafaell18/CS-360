@@ -1,6 +1,7 @@
 **CS 360 Mobile App Portfolio Reflection**
 
 **App Summary**
+
 My application is called an Inventory Tracker app. One of the primary purposes of the application is to allow its users to manage their inventory in one convenient place. They can sign in, see their inventory, add new items to it, edit the quantity of certain products, and remove those which are no longer required. In addition to this, there are SMS notifications that remind users about their low inventory. My intention in designing this application was to make it simple and easy to use for inventory management.
 
 **User Interface Design**
